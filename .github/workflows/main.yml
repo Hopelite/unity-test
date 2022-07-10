@@ -10,7 +10,6 @@ env:
 
 jobs:
   build:
-    needs: testRunner
     name: Build
     runs-on: ubuntu-latest
     strategy:
