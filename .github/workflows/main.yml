@@ -55,5 +55,5 @@ jobs:
           BUTLER_CREDENTIALS: ${{ secrets.BUTLER_CREDENTIALS }}
           CHANNEL: html5
           ITCH_GAME: gmtk-game-jam-test-run
-          ITCH_USER: hopelite
+          ITCH_USER: doppelgunger
           PACKAGE: build/WebGL
